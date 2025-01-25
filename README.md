@@ -1,4 +1,4 @@
-基于SSM的CRM人事管理系统
+基于SSM的OA办公管理系统
 =
 ### 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
 ### 作者微信：19941326836  QQ：952045282 
